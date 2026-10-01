@@ -1,0 +1,8 @@
+/home/manuel/Portfolio/University_projects/robotprogramming_2026_27/exercises/create_Cmake/build/CMakeFiles/edit_cache.dir
+/home/manuel/Portfolio/University_projects/robotprogramming_2026_27/exercises/create_Cmake/build/CMakeFiles/rebuild_cache.dir
+/home/manuel/Portfolio/University_projects/robotprogramming_2026_27/exercises/create_Cmake/build/src/CMakeFiles/core_library.dir
+/home/manuel/Portfolio/University_projects/robotprogramming_2026_27/exercises/create_Cmake/build/src/CMakeFiles/edit_cache.dir
+/home/manuel/Portfolio/University_projects/robotprogramming_2026_27/exercises/create_Cmake/build/src/CMakeFiles/rebuild_cache.dir
+/home/manuel/Portfolio/University_projects/robotprogramming_2026_27/exercises/create_Cmake/build/executables/CMakeFiles/mini_core.dir
+/home/manuel/Portfolio/University_projects/robotprogramming_2026_27/exercises/create_Cmake/build/executables/CMakeFiles/edit_cache.dir
+/home/manuel/Portfolio/University_projects/robotprogramming_2026_27/exercises/create_Cmake/build/executables/CMakeFiles/rebuild_cache.dir
